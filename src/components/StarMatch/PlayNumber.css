@@ -1,0 +1,14 @@
+.number {
+    background-color: #eee;
+    border: thin solid #ddd;
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.number:focus,
+.number:active {
+    outline: none;
+    border: thin solid #ddd;
+}
